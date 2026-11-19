@@ -41,3 +41,14 @@ app-example
 # generated native folders
 /ios
 /android
+
+.vscode/
+
+tsconfig.json
+
+package-lock.json
+eslint.config.js
+
+app.json
+
+AGENTS.md
